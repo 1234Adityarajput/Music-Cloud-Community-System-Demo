@@ -1,0 +1,7 @@
+*.original
+.env
+.DS_Store
+Thumbs.db
+music/
+db_config.json
+-Music-Cloud-Community-System--main/

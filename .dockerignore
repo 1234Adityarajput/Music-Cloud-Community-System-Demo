@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+*.original
+-Music-Cloud-Community-System--main/
+music/
+
